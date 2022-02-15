@@ -33,9 +33,9 @@ public class Main {
 
 
         }
-        Animal[] rep = {turtle};
-        Animal[] fish = {eage};
-        Animal[] bird = {shark};
+        Shark[] rep = {(Shark) animals[0]};
+        Animal[] fish = {(Turtle) animals[1]};
+        Animal[] bird = {(Eage) animals[2]};
 
     }
 }
